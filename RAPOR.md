@@ -44,30 +44,12 @@ Girdiginiz sayilarin ortalamasi:3.0
 
 | No | Girilen sayılar | Beklenen sonuç | Programın sonucu | Doğru mu? |
 |---|---|---|---|---|
-| 1 |1 2 3 4 5 0 |Sayi girme islemleriniz bitmistir.
--> SAYI ANALIZI <-
-Girdiginiz sayilardan 5 tanesi pozitiftir.
-Girdiginiz sayilardan 0 tanesi negatiftir.
-Girdiginiz sayilardan 3 tanesi tektir.
-Girdiginiz sayilardan 2 tanesi cifttir.
-Girdiginiz sayilardan en kucuk sayi 1
-Girdiginiz sayilardan en buyuk sayi 5
-Girdiginiz sayilarin toplami:15
-Girdiginiz sayilarin ortalamasi:3.0 |Sayi girme islemleriniz bitmistir.
--> SAYI ANALIZI <-
-Girdiginiz sayilardan 5 tanesi pozitiftir.
-Girdiginiz sayilardan 0 tanesi negatiftir.
-Girdiginiz sayilardan 3 tanesi tektir.
-Girdiginiz sayilardan 2 tanesi cifttir.
-Girdiginiz sayilardan en kucuk sayi 1
-Girdiginiz sayilardan en buyuk sayi 5
-Girdiginiz sayilarin toplami:15
-Girdiginiz sayilarin ortalamasi:3.0 |evet |
-| 2 | | | | |
-| 3 | | | | |
-| 4 | | | | |
-| 5 | | | | |
-| 6 | | | | |
+| 1 |1 2 3 4 5 0 |  5 tanesi pozitif  0 tanesi negatift 3 tanesi tektir 2 tanesi cifttir en kucuk sayi 1 en buyuk sayi 5  toplami:15 ortalamasi:3.0|(aynisi)|evet |
+| 2 |0 |!! Hata !! Hic sayi girmeden direkt 0 giremezsiniz! | !! Hata !! Hic sayi girmeden direkt 0 giremezsiniz!| evet|
+| 3 |3 -3 -3 3 0  |2 negatif 2 pozitif 4tek 0 cift en kucuk -3 en buyuk 3 toplami 0 ortalama 0 |aynisi |evet |
+| 4 |5 5 10 15 15 0 |5 pozitif 0 negatik 4cift 1 tek en kucuk 5 enbuyuk 15 toplami 50 ortalama 10  |aynisi |evet |
+| 5 |-1 2 3 -4 |2 negatif 2 pozitif 2 tek 2 cift enkucuk -4 en buyuk 3 toplami 0 ortalama0 |aynisi |evet |
+| 6 |1 3 4 0 |0 negatik 3 pozitif 2 tek 1 cift en kucuk 1 en buyuk 4 toplam 8 ortalama 2.66666666667 |ortalama dısında aynı (2)|kısmen |
 | 7 | | | | |
 | 8 | | | | |
 
