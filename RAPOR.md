@@ -31,7 +31,7 @@ Girdiginiz sayilarin ortalamasi:3.0
 ## 3. Sözde Kod (Pseudocode)
 
 ```
-1.
+1.Başla
 2.
 3.
 ```
@@ -50,8 +50,8 @@ Girdiginiz sayilarin ortalamasi:3.0
 | 4 |5 5 10 15 15 0 |5 pozitif 0 negatik 4cift 1 tek en kucuk 5 enbuyuk 15 toplami 50 ortalama 10  |aynisi |evet |
 | 5 |-1 2 3 -4 |2 negatif 2 pozitif 2 tek 2 cift enkucuk -4 en buyuk 3 toplami 0 ortalama0 |aynisi |evet |
 | 6 |1 3 4 0 |0 negatik 3 pozitif 2 tek 1 cift en kucuk 1 en buyuk 4 toplam 8 ortalama 2.66666666667 |ortalama dısında aynı (2)|kısmen |
-| 7 | | | | |
-| 8 | | | | |
+| 7 |-11 17 24 0 |1 negatif 2 pozitif 2 tek 1 cift enkucuk -11 en buyuk 24 toplam 30 ortalama 10 |aynısı |evet |
+| 8 |-10 -25 -40 0  |3 negatif  0 pozitif 1 tek 2 cift en kuck -40 en buyuk -10 toplam -75 ortalama -25 |aynısı |evet |
 
 ## 6. Ek Görevler (Opsiyonel)
 <!-- Max-min farkı, pozitiflerin ortalaması, asal sayı adedi için örnek çıktılar. -->
