@@ -38,7 +38,7 @@ Girdiginiz sayilarin ortalamasi:3.0
 
 ## 4. Akış Şeması
 
-![Akış Şeması](docs/akis-semasi.png)
+![Akış Şeması](src/akissemasisayianaliz.pdf)
 
 ## 5. Test Senaryoları (en az 8)
 
